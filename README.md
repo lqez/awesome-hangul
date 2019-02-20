@@ -16,6 +16,9 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hangul-toolkit](https://github.com/bluedisk/hangul-toolkit) - 한글 자모 분리/조합 작업을 위한 툴킷
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
 
+## Scala
+- [open-korean-text](https://github.com/open-korean-text/open-korean-text) - An Open-source Korean Text Processor
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
