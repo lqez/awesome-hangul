@@ -14,6 +14,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [konlpy](https://github.com/konlpy/konlpy) - Python package for Korean natural language processing.
 - [py-hanspell](https://github.com/ssut/py-hanspell) - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)
 - [hangul-toolkit](https://github.com/bluedisk/hangul-toolkit) - 한글 자모 분리/조합 작업을 위한 툴킷
+- [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
 
 ## License
 
