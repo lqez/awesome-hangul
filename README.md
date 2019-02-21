@@ -16,9 +16,16 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [py-hanspell](https://github.com/ssut/py-hanspell) - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)
 - [hangul-toolkit](https://github.com/bluedisk/hangul-toolkit) - 한글 자모 분리/조합 작업을 위한 툴킷
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
+- [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
 
 ## Scala
 - [open-korean-text](https://github.com/open-korean-text/open-korean-text) - An Open-source Korean Text Processor
+
+## C
+- [libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
+
+## C#
+- [Hangeul-Romaniser](https://github.com/aliencube/Hangeul-Romaniser) - 한글 음절들을 국립국어원에서 규정한 한글 로마자 표기규정에 따라 영문 로마자로 변환해주는 라이브러리입니다.
 
 ## License
 
