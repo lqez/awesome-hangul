@@ -33,7 +33,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 ## C#
 - [Hangeul-Romaniser](https://github.com/aliencube/Hangeul-Romaniser) - 한글 음절들을 국립국어원에서 규정한 한글 로마자 표기규정에 따라 영문 로마자로 변환해주는 라이브러리입니다.
 
-## JAva
+## Java
 - [HangulParser](https://github.com/kimkevin/HangulParser) - HangulParser is to parse Hangul to Jaso by using Unicode
 
 ## License
