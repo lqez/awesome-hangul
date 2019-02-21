@@ -9,6 +9,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [Josa.js](https://github.com/e-/Josa.js/) - 한국어 은/는, 을/를, 이/가 조사 구분 자바스크립트 라이브러리
 - [kroman-js](https://github.com/zhangkaiyulw/kroman-js) - Kroman is a Korean hangul romanization tool.
 - [inko](https://github.com/JonJee/inko) - 영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 라이브러리
+- [Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리. 
 
 ## Python
 - [hangul-utils](https://github.com/kaniblu/hangul-utils) - An integrated library for Korean language preprocessing.
@@ -17,6 +18,11 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hangul-toolkit](https://github.com/bluedisk/hangul-toolkit) - 한글 자모 분리/조합 작업을 위한 툴킷
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
+- [hangulize](https://github.com/sublee/hangulize) - Korean Alphabet Transcription (deprecated)
+- [Jamo](https://github.com/JDongian/python-jamo) - Hangul syllable decomposition and synthesis using jamo.
+
+## Go
+- [hangulize](https://github.com/hangulize/hangulize) - Hangulize transcribes non-Korean words into Hangul
 
 ## Scala
 - [open-korean-text](https://github.com/open-korean-text/open-korean-text) - An Open-source Korean Text Processor
@@ -26,6 +32,9 @@ An awesome list of Hangul/Korean related libraries and modules.
 
 ## C#
 - [Hangeul-Romaniser](https://github.com/aliencube/Hangeul-Romaniser) - 한글 음절들을 국립국어원에서 규정한 한글 로마자 표기규정에 따라 영문 로마자로 변환해주는 라이브러리입니다.
+
+## JAva
+- [HangulParser](https://github.com/kimkevin/HangulParser) - HangulParser is to parse Hangul to Jaso by using Unicode
 
 ## License
 
