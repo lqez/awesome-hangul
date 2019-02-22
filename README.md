@@ -10,6 +10,8 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [kroman-js](https://github.com/zhangkaiyulw/kroman-js) - Kroman is a Korean hangul romanization tool.
 - [inko](https://github.com/JonJee/inko) - 영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 라이브러리
 - [Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리. 
+- [hanspell](https://github.com/9beach/hanspell) - 한글 맞춤법 검사기(다음과 부산대학교 인공지능연구실/나라인포테크의 웹 서비스 이용)
+- [vue-number-to-kor](https://github.com/wisedog/vue-number-to-kor) - Vue.js 용 숫자 -> 한글 변환 패키지(필터 혹은 함수로 사용가능)
 
 ## Python
 - [hangul-utils](https://github.com/kaniblu/hangul-utils) - An integrated library for Korean language preprocessing.
