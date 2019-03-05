@@ -20,6 +20,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hangul-toolkit](https://github.com/bluedisk/hangul-toolkit) - 한글 자모 분리/조합 작업을 위한 툴킷
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
+- [hangul-romanize](https://github.com/youknowone/hangul-romanize) - Hangul romanization library for academy - 국립국어원 학술 표기법
 - [hangulize](https://github.com/sublee/hangulize) - Korean Alphabet Transcription (deprecated)
 - [Jamo](https://github.com/JDongian/python-jamo) - Hangul syllable decomposition and synthesis using jamo.
 
