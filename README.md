@@ -38,6 +38,10 @@ An awesome list of Hangul/Korean related libraries and modules.
 ## Java
 - [HangulParser](https://github.com/kimkevin/HangulParser) - HangulParser is to parse Hangul to Jaso by using Unicode
 
+## Perl
+- [Lingua::KO::Hangul::Util](https://metacpan.org/pod/Lingua::KO::Hangul::Util) - utility functions for Hangul in Unicode (Composition and Decomposition)
+- [Lingua::KO::Munja](https://metacpan.org/pod/Lingua::KO::Munja) - Hangul to Roman letter conversion
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
