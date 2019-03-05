@@ -41,6 +41,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 ## Perl
 - [Lingua::KO::Hangul::Util](https://metacpan.org/pod/Lingua::KO::Hangul::Util) - utility functions for Hangul in Unicode (Composition and Decomposition)
 - [Lingua::KO::Munja](https://metacpan.org/pod/Lingua::KO::Munja) - Hangul to Roman letter conversion
+- [Encode::Korean](https://metacpan.org/pod/Encode::Korean) - Perl extension for Encodings of Korean Language
 
 ## License
 
