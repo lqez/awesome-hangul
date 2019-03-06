@@ -33,7 +33,11 @@ An awesome list of Hangul/Korean related libraries and modules.
 ## C
 - [libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
 
+## C++
+- [cppjosa](https://github.com/myevan/cppjosa) - c++11 한글 조사 처리  
+  
 ## C#
+- [csjosa](https://github.com/myevan/csjosa) - c# 한글 조사 처리
 - [Hangeul-Romaniser](https://github.com/aliencube/Hangeul-Romaniser) - 한글 음절들을 국립국어원에서 규정한 한글 로마자 표기규정에 따라 영문 로마자로 변환해주는 라이브러리입니다.
 - [SmartFormat.NET-Korean](https://github.com/what-studio/SmartFormat.NET-Korean) - C#용 [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET)에서 사용할 수 있는 한국어 조사 포매터입니다.
 
