@@ -49,6 +49,10 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [Lingua::KO::Munja](https://metacpan.org/pod/Lingua::KO::Munja) - Hangul to Roman letter conversion
 - [Encode::Korean](https://metacpan.org/pod/Encode::Korean) - Perl extension for Encodings of Korean Language
 
+## Ruby
+
+- [ununiga](https://github.com/keepcosmos/ununiga) - 한글 자소 분리 및 은/는, 이/가 등의 조사가 포함된 로케일 처리를 위한 라이브러리
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
