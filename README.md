@@ -23,6 +23,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hangul-romanize](https://github.com/youknowone/hangul-romanize) - Hangul romanization library for academy - 국립국어원 학술 표기법
 - [hangulize](https://github.com/sublee/hangulize) - Korean Alphabet Transcription (deprecated)
 - [Jamo](https://github.com/JDongian/python-jamo) - Hangul syllable decomposition and synthesis using jamo.
+- [PyKOMORAN](https://github.com/shineware/PyKOMORAN) - PyKOMORAN is wrapped KOMORAN in Python using Py4J. 
 
 ## Go
 - [hangulize](https://github.com/hangulize/hangulize) - Hangulize transcribes non-Korean words into Hangul
@@ -43,6 +44,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 
 ## Java
 - [HangulParser](https://github.com/kimkevin/HangulParser) - HangulParser is to parse Hangul to Jaso by using Unicode
+- [KOMORAN](https://github.com/shin285/KOMORAN) - Korean Morphological Analyzer by shineware
 
 ## Perl
 - [Lingua::KO::Hangul::Util](https://metacpan.org/pod/Lingua::KO::Hangul::Util) - utility functions for Hangul in Unicode (Composition and Decomposition)
