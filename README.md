@@ -46,6 +46,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
 - [py-hanspell](https://github.com/ssut/py-hanspell) - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)
 - [PyKOMORAN](https://github.com/shineware/PyKOMORAN) - PyKOMORAN is wrapped KOMORAN in Python using Py4J. 
+- [SmartFormat-Korean](https://github.com/what-studio/smartformat-korean) - Korean extension for SmartFormat-Python
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
 
 ### Ruby
