@@ -41,6 +41,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hangul-toolkit](https://github.com/bluedisk/hangul-toolkit) - 한글 자모 분리/조합 작업을 위한 툴킷
 - [hangul-utils](https://github.com/kaniblu/hangul-utils) - An integrated library for Korean language preprocessing.
 - [hangulize](https://github.com/sublee/hangulize) - Korean Alphabet Transcription (deprecated)
+- [hanja](https://github.com/suminb/hanja) - 한자-한글 변환 라이브러리
 - [Jamo](https://github.com/JDongian/python-jamo) - Hangul syllable decomposition and synthesis using jamo.
 - [konlpy](https://github.com/konlpy/konlpy) - Python package for Korean natural language processing.
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
