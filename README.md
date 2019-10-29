@@ -18,6 +18,9 @@ An awesome list of Hangul/Korean related libraries and modules.
 ### Go
 - [hangulize](https://github.com/hangulize/hangulize) - Hangulize transcribes non-Korean words into Hangul
 
+### Haskell
+- [Seonbi](https://github.com/dahlia/seonbi) - 한국어를 위한 SmartyPants. 한국 국립국어원의 《한글 맞춤법》 또는 북조선의 《조선말규범집》에서 정한 구두법에 맞도록 글의 구두점 등의 사용을 교정해주고, 국한혼용체를 한글전용으로 변환해주는 HTML 전처리기. 하스켈 라이브러리, HTTP API, CLI로 사용 가능.
+
 ### Java
 - [HangulParser](https://github.com/kimkevin/HangulParser) - HangulParser is to parse Hangul to Jaso by using Unicode
 - [KOMORAN](https://github.com/shin285/KOMORAN) - Korean Morphological Analyzer by shineware
