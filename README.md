@@ -34,6 +34,9 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [kroman-js](https://github.com/zhangkaiyulw/kroman-js) - Kroman is a Korean hangul romanization tool.
 - [vue-number-to-kor](https://github.com/wisedog/vue-number-to-kor) - Vue.js 용 숫자 -> 한글 변환 패키지(필터 혹은 함수로 사용가능)
 
+### Kotlin
+- [KoalaNLP](https://github.com/koalanlp/koalanlp) - KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다.
+
 ### Perl
 - [Encode::Korean](https://metacpan.org/pod/Encode::Korean) - Perl extension for Encodings of Korean Language
 - [Lingua::KO::Hangul::Util](https://metacpan.org/pod/Lingua::KO::Hangul::Util) - utility functions for Hangul in Unicode (Composition and Decomposition)
@@ -62,6 +65,11 @@ An awesome list of Hangul/Korean related libraries and modules.
 
 ### Swift
 - [JNaturalKorean](https://github.com/trilliwon/JNaturalKorean) - 한글 (조사, 助詞, postposition)
+
+
+## Applications
+- [Apache Spark](https://spark.apache.org/)
+  - [spark-ko-nlp](https://github.com/dongjinleekr/spark-ko-nlp) - Korean language processor for Apache Spark
 
 
 ## License
