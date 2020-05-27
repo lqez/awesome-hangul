@@ -60,6 +60,10 @@ An awesome list of Hangul/Korean related libraries and modules.
 ### Ruby
 - [ununiga](https://github.com/keepcosmos/ununiga) - 한글 자소 분리 및 은/는, 이/가 등의 조사가 포함된 로케일 처리를 위한 라이브러리
 
+### Rust
+- [hangul](https://github.com/YujinGaya/hangul) - Utilities to manipulate hangul syllables
+- [josa](https://github.com/YujinGaya/josa) - Idiomatic josa selector
+
 ### Scala
 - [open-korean-text](https://github.com/open-korean-text/open-korean-text) - An Open-source Korean Text Processor
 
