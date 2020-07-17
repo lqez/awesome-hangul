@@ -71,11 +71,13 @@ An awesome list of Hangul/Korean related libraries and modules.
 ### Swift
 - [JNaturalKorean](https://github.com/trilliwon/JNaturalKorean) - 한글 (조사, 助詞, postposition)
 
-
 ## Applications
 - [Apache Spark](https://spark.apache.org/)
   - [spark-ko-nlp](https://github.com/dongjinleekr/spark-ko-nlp) - Korean language processor for Apache Spark
 
+## Use cases
+
+- [Design Efficient Keyboards for TV](https://story.pxd.co.kr/1441) used [Hangul.js](https://github.com/e-/Hangul.js) for separating consonants and vowels.
 
 ## License
 
