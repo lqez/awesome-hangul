@@ -29,6 +29,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리. 
 - [hanspell](https://github.com/9beach/hanspell) - 한글 맞춤법 검사기(다음과 부산대학교 인공지능연구실/나라인포테크의 웹 서비스 이용)
 - [inko](https://github.com/JonJee/inko) - 영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 라이브러리
+- [hangul-josa](https://github.com/simnalamburt/npm/tree/master/packages/hangul-josa) - Template 문법으로 편하게 은/는/이/가 처리를 시켜주는, [가볍고 (gzipped<500B)](https://bundlephobia.com/result?p=hangul-josa) 현대적인 라이브러리
 - [Josa.js](https://github.com/e-/Josa.js/) - 한국어 은/는, 을/를, 이/가 조사 구분 자바스크립트 라이브러리
 - [josa](https://github.com/kimdhoe/josa) - 명사에 맞는 조사를 찾아줍니다.
 - [kroman-js](https://github.com/zhangkaiyulw/kroman-js) - Kroman is a Korean hangul romanization tool.
