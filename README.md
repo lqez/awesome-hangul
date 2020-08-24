@@ -39,9 +39,6 @@ An awesome list of Hangul/Korean related libraries and modules.
 ### Kotlin
 - [KoalaNLP](https://github.com/koalanlp/koalanlp) - KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다.
 
-### LaTeX
-- [cjk-ko](https://github.com/dohyunkim/cjk-ko) - LaTeX에서 한글을 조판하고 한국어 문서를 작성하기 위한 패키지입니다.
-
 ### Perl
 - [Encode::Korean](https://metacpan.org/pod/Encode::Korean) - Perl extension for Encodings of Korean Language
 - [Lingua::KO::Hangul::Util](https://metacpan.org/pod/Lingua::KO::Hangul::Util) - utility functions for Hangul in Unicode (Composition and Decomposition)
@@ -78,6 +75,8 @@ An awesome list of Hangul/Korean related libraries and modules.
 ## Applications
 - [Apache Spark](https://spark.apache.org/)
   - [spark-ko-nlp](https://github.com/dongjinleekr/spark-ko-nlp) - Korean language processor for Apache Spark
+
+- [cjk-ko](https://github.com/dohyunkim/cjk-ko) - LaTeX에서 한글을 조판하고 한국어 문서를 작성하기 위한 패키지입니다.
 
 ## Use cases
 
