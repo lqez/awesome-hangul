@@ -2,18 +2,18 @@
 
 An awesome list of Hangul/Korean related libraries and modules.
 <br>
-한글/한국어 처리와 관련된 라이브러리와 모듈의 목록입니다. 
+한글/한국어 처리와 관련된 라이브러리와 모듈의 목록입니다.
 
 ### C
 - [libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
-  
+
 ### C#
 - [csjosa](https://github.com/myevan/csjosa) - c# 한글 조사 처리
 - [Hangeul-Romaniser](https://github.com/aliencube/Hangeul-Romaniser) - 한글 음절들을 국립국어원에서 규정한 한글 로마자 표기규정에 따라 영문 로마자로 변환해주는 라이브러리입니다.
 - [SmartFormat.NET-Korean](https://github.com/what-studio/SmartFormat.NET-Korean) - C#용 [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET)에서 사용할 수 있는 한국어 조사 포매터입니다.
 
 ### C++
-- [cppjosa](https://github.com/myevan/cppjosa) - c++11 한글 조사 처리  
+- [cppjosa](https://github.com/myevan/cppjosa) - c++11 한글 조사 처리
 
 ### Go
 - [hangulize](https://github.com/hangulize/hangulize) - Hangulize transcribes non-Korean words into Hangul
@@ -27,7 +27,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 
 ### JavaScript
 - [hangul-josa](https://github.com/simnalamburt/npm/tree/master/packages/hangul-josa) - Template 문법으로 편하게 은/는/이/가 처리를 시켜주는, [가볍고 (gzipped<500B)](https://bundlephobia.com/result?p=hangul-josa) 현대적인 라이브러리
-- [Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리. 
+- [Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리.
 - [hanspell](https://github.com/9beach/hanspell) - 한글 맞춤법 검사기(다음과 부산대학교 인공지능연구실/나라인포테크의 웹 서비스 이용)
 - [inko](https://github.com/JonJee/inko) - 영타를 한글로, 한타를 영어로 변환해주는 자바스크립트 라이브러리
 - [Josa.js](https://github.com/e-/Josa.js/) - 한국어 은/는, 을/를, 이/가 조사 구분 자바스크립트 라이브러리
@@ -54,7 +54,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [konlpy](https://github.com/konlpy/konlpy) - Python package for Korean natural language processing.
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
 - [py-hanspell](https://github.com/ssut/py-hanspell) - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)
-- [PyKOMORAN](https://github.com/shineware/PyKOMORAN) - PyKOMORAN is wrapped KOMORAN in Python using Py4J. 
+- [PyKOMORAN](https://github.com/shineware/PyKOMORAN) - PyKOMORAN is wrapped KOMORAN in Python using Py4J.
 - [SmartFormat-Korean](https://github.com/what-studio/smartformat-korean) - Korean extension for SmartFormat-Python
 - [takos-alpha](https://github.com/Taekyoon/takos-alpha/blob/master/Readme.md) - Trainable Korean spacing library alpha version
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
@@ -76,7 +76,8 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [Apache Spark](https://spark.apache.org/)
   - [spark-ko-nlp](https://github.com/dongjinleekr/spark-ko-nlp) - Korean language processor for Apache Spark
 
-- [cjk-ko](https://github.com/dohyunkim/cjk-ko) - LaTeX에서 한글을 조판하고 한국어 문서를 작성하기 위한 패키지입니다.
+- [LaTeX](https://www.latex-project.org/)
+  - [cjk-ko](https://github.com/dohyunkim/cjk-ko) - LaTeX에서 한글을 조판하고 한국어 문서를 작성하기 위한 패키지입니다.
 
 ## Use cases
 
