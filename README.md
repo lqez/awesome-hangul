@@ -79,6 +79,9 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [LaTeX](https://www.latex-project.org/)
   - [cjk-ko](https://github.com/dohyunkim/cjk-ko) - LaTeX에서 한글을 조판하고 한국어 문서를 작성하기 위한 패키지입니다.
 
+- Web application
+  - [HangulAtlasEditor](https://github.com/Creta5164/HangulAtlasEditor) - [BMFont](https://www.angelcode.com/products/bmfont)로 만든 폰트 아틀라스 텍스쳐 시트에 조합형 한글 시트를 합쳐주는 도구입니다.
+
 ## Use cases
 
 - [Design Efficient Keyboards for TV](https://story.pxd.co.kr/1441) used [Hangul.js](https://github.com/e-/Hangul.js) for separating consonants and vowels.
