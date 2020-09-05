@@ -26,6 +26,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [KOMORAN](https://github.com/shin285/KOMORAN) - Korean Morphological Analyzer by shineware
 
 ### JavaScript
+- [Eomi.js](https://github.com/dragonteros/Eomi.js) - 한국어 용언(동사, 형용사) 활용을 편리하게 구현하는 자바스크립트 라이브러리.
 - [hangul-josa](https://github.com/simnalamburt/npm/tree/master/packages/hangul-josa) - Template 문법으로 편하게 은/는/이/가 처리를 시켜주는, [가볍고 (gzipped<500B)](https://bundlephobia.com/result?p=hangul-josa) 현대적인 라이브러리
 - [Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리.
 - [hanspell](https://github.com/9beach/hanspell) - 한글 맞춤법 검사기(다음과 부산대학교 인공지능연구실/나라인포테크의 웹 서비스 이용)
