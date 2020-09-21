@@ -34,6 +34,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [Josa.js](https://github.com/e-/Josa.js/) - 한국어 은/는, 을/를, 이/가 조사 구분 자바스크립트 라이브러리
 - [josa](https://github.com/kimdhoe/josa) - 명사에 맞는 조사를 찾아줍니다.
 - [kroman-js](https://github.com/zhangkaiyulw/kroman-js) - Kroman is a Korean hangul romanization tool.
+- [Online-Hanguel-IME](https://github.com/pat-al/Online-Hangeul-IME) - 온라인 한글 입력기는 웹에서 바로 쓸 수 있는 화상 자판 입력기입니다.
 - [type-hangul](https://github.com/SDuck4/type-hangul) - 한글 타이핑 효과 라이브러리
 - [vue-number-to-kor](https://github.com/wisedog/vue-number-to-kor) - Vue.js 용 숫자 -> 한글 변환 패키지(필터 혹은 함수로 사용가능)
 
