@@ -54,8 +54,8 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hanja](https://github.com/suminb/hanja) - 한자-한글 변환 라이브러리
 - [Jamo](https://github.com/JDongian/python-jamo) - Hangul syllable decomposition and synthesis using jamo.
 - [konlpy](https://github.com/konlpy/konlpy) - Python package for Korean natural language processing.
-- [korean-spacing-model](https://github.com/jeongukjae/korean-spacing-model) - 한국어 문장 띄어쓰기(삭제/추가) 모델
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
+- [korean-spacing-model](https://github.com/jeongukjae/korean-spacing-model) - 한국어 문장 띄어쓰기(삭제/추가) 모델
 - [py-hanspell](https://github.com/ssut/py-hanspell) - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)
 - [PyKOMORAN](https://github.com/shineware/PyKOMORAN) - PyKOMORAN is wrapped KOMORAN in Python using Py4J.
 - [SmartFormat-Korean](https://github.com/what-studio/smartformat-korean) - Korean extension for SmartFormat-Python
