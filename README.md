@@ -85,6 +85,10 @@ An awesome list of Hangul/Korean related libraries and modules.
 - Web application
   - [HangulAtlasEditor](https://github.com/Creta5164/HangulAtlasEditor) - [BMFont](https://www.angelcode.com/products/bmfont)로 만든 폰트 아틀라스 텍스쳐 시트에 조합형 한글 시트를 합쳐주는 도구입니다.
 
+## Datesets
+
+- [korean-hate-speech](https://github.com/kocohub/korean-hate-speech) - Korean HateSpeech Dataset
+
 ## Use cases
 
 - [Design Efficient Keyboards for TV](https://story.pxd.co.kr/1441) used [Hangul.js](https://github.com/e-/Hangul.js) for separating consonants and vowels.
