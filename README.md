@@ -62,11 +62,11 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [takos-alpha](https://github.com/Taekyoon/takos-alpha/blob/master/Readme.md) - Trainable Korean spacing library alpha version
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
 
-### Ruby
-- [ununiga](https://github.com/keepcosmos/ununiga) - 한글 자소 분리 및 은/는, 이/가 등의 조사가 포함된 로케일 처리를 위한 라이브러리
-
 ### ReScript/ReasonML
 - [re-korean-numeral](https://github.com/green-labs/re-korean-numeral) - 한글 숫자로 변환해주는 리스크립트/ReasonML 모듈
+
+### Ruby
+- [ununiga](https://github.com/keepcosmos/ununiga) - 한글 자소 분리 및 은/는, 이/가 등의 조사가 포함된 로케일 처리를 위한 라이브러리
 
 ### Rust
 - [hangul](https://github.com/YujinGaya/hangul) - Utilities to manipulate hangul syllables
