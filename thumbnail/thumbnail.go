@@ -2,8 +2,8 @@ package main
 
 import (
     "github.com/fogleman/gg"
-		"bufio"
-		"os"
+    "bufio"
+    "os"
     "fmt"
     "log"
     "strings"
@@ -44,7 +44,7 @@ func countLanguages() int {
 }
 
 func main() {
-		languages := countLanguages()
+    languages := countLanguages()
     fmt.Println(languages, "programming language(s) found.")
 
     img, err := gg.LoadImage("thumbnail-base.png")
@@ -52,7 +52,7 @@ func main() {
         log.Fatal(err)
     }
 
-		bounds := img.Bounds()
+    bounds := img.Bounds()
     dc := gg.NewContext(bounds.Max.X, bounds.Max.Y)
 
     if err := dc.LoadFontFace("./RobotoSlab-Regular.ttf", 42); err != nil {
@@ -60,7 +60,7 @@ func main() {
     }
 
     dc.DrawImage(img, 0, 0)
-		dc.SetRGB(0, 0, 0)
+    dc.SetRGB(0, 0, 0)
 
     s := fmt.Sprintf("Includes %d+ programming languages", languages)
     dc.DrawString(s, 324, 316)
