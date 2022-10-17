@@ -40,6 +40,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [Online-Hanguel-IME](https://github.com/pat-al/Online-Hangeul-IME) - 온라인 한글 입력기는 웹에서 바로 쓸 수 있는 화상 자판 입력기입니다.
 - [type-hangul](https://github.com/SDuck4/type-hangul) - 한글 타이핑 효과 라이브러리
 - [vue-number-to-kor](https://github.com/wisedog/vue-number-to-kor) - Vue.js 용 숫자 -> 한글 변환 패키지(필터 혹은 함수로 사용가능)
+- [@toss/hangul](https://github.com/toss/slash/tree/main/packages/common/hangul) - 현대적인 JavaScript로 한글을 다루는 라이브러리
 
 ### Kotlin
 - [KoalaNLP](https://github.com/koalanlp/koalanlp) - KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다.
