@@ -56,6 +56,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [hangul-utils](https://github.com/kaniblu/hangul-utils) - An integrated library for Korean language preprocessing.
 - [hangulize](https://github.com/sublee/hangulize) - Korean Alphabet Transcription (deprecated)
 - [hanja](https://github.com/suminb/hanja) - 한자-한글 변환 라이브러리
+- [hypua2jamo](https://github.com/mete0r/hypua2jamo) - [한양 사용(私用) 영역 코드](https://ko.wikipedia.org/wiki/%EC%98%9B_%ED%95%9C%EA%B8%80#%ED%95%9C%EC%96%91_%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%A0%95%EC%9D%98_%EC%98%81%EC%97%AD_%EC%BD%94%EB%93%9C)[^한양PUA]를 [첫가끝 코드](https://ko.wikipedia.org/wiki/%EC%98%9B_%ED%95%9C%EA%B8%80#%EC%B2%AB%EA%B0%80%EB%81%9D_%EC%BD%94%EB%93%9C)로 변환하는 라이브러리
 - [Jamo](https://github.com/JDongian/python-jamo) - Hangul syllable decomposition and synthesis using jamo.
 - [konlpy](https://github.com/konlpy/konlpy) - Python package for Korean natural language processing.
 - [korean-romanizer](https://github.com/osori/korean-romanizer) - A python library for Korean romanization
@@ -65,6 +66,8 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [SmartFormat-Korean](https://github.com/what-studio/smartformat-korean) - Korean extension for SmartFormat-Python
 - [takos-alpha](https://github.com/Taekyoon/takos-alpha/blob/master/Readme.md) - Trainable Korean spacing library alpha version
 - [tossi](https://github.com/what-studio/tossi) - Chooses correct Korean particle morphs for arbitrary words.
+
+[^한양PUA]: 옛 한글을 나타내기 위한 첫가끝 한글 코드가 유니코드 표준에 들어오기 전 ᄒᆞᆫ글 등에서 쓰였고 현재도 국립국어원 등에서 여전히 왕왕 쓰이는 옛 한글 부호화 방식.
 
 ### ReScript/ReasonML
 - [re-korean-numeral](https://github.com/green-labs/re-korean-numeral) - 한글 숫자로 변환해주는 리스크립트/ReasonML 모듈
