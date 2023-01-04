@@ -18,6 +18,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 - [cppjosa](https://github.com/myevan/cppjosa) - c++11 한글 조사 처리
 
 ### Go
+- [go-hangul](https://github.com/KimHyeonwoo/go-hangul) - 한글 자모 분리 및 조합을 위한 Go 패키지입니다. NFC/NFD 정규화 방식을 모두 지원합니다.
 - [hangulize](https://github.com/hangulize/hangulize) - Hangulize transcribes non-Korean words into Hangul
 
 ### Haskell
