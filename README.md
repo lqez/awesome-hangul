@@ -97,6 +97,7 @@ An awesome list of Hangul/Korean related libraries and modules.
 
 - Web application
   - [HangulAtlasEditor](https://github.com/Creta5164/HangulAtlasEditor) - [BMFont](https://www.angelcode.com/products/bmfont)로 만든 폰트 아틀라스 텍스쳐 시트에 조합형 한글 시트를 합쳐주는 도구입니다.
+  - [K-Type](https://github.com/h2techjun/ktype) - 한글 자모가 음절로 조합되는 과정을 초성·중성·종성 트랙으로 보여주는 타자 연습기입니다. 두벌식·천지인 자판과 받침이 다음 글자 초성으로 넘어가는 규칙을 구현했습니다. ([데모](https://workmate.tools/ktype/))
 
 ## Datesets
 
